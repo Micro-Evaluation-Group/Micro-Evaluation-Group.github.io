@@ -11,6 +11,7 @@ Project documentation is available at:
 | Project | URL |
 |---|---|
 | CrashRustler | [micro-evaluation-group.github.io/CrashRustler](https://micro-evaluation-group.github.io/CrashRustler) |
+| pwndbg-lldb-mcp | [micro-evaluation-group.github.io/pwndbg-lldb-mcp](https://micro-evaluation-group.github.io/pwndbg-lldb-mcp/) |
 
 ## How It Works
 
